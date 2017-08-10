@@ -1,5 +1,5 @@
 
-Different types of pattern using for loop i  Java
+Different types of pattern using for loop in Java
 
 
 *****                               
